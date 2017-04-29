@@ -3,3 +3,7 @@ users:
   name: Stephen
   email: steveswebdesk@gmail.com
   hash: $2a$10$Qg0bg7KlMjUUTgsEm18sIOpVAvBoSdvIkXZsIsZ3TLel6IzujoiRS
+- id: 152e8415-d33e-4d8b-814a-0083fa2efc02
+  name: boreen
+  email: info@boreendesign.com
+  hash: $2a$10$nKkGO6v002M8FWBk.UvAEuYoS3IMjshokkbuzQ0Cfe4Zyj.bql/Ky
