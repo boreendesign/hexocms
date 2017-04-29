@@ -37,9 +37,10 @@ backend:
 # Make sure to change this for production
 production:
   backend:
-    name: github-api
-    repo: user/repo
-    branch: master
+    name: github
+    repo: boreendesign/hexocms
+    branch: master # Branch to update
+    site_domain: boreentest.netlify.com # Your Netlify site address if different from host
 
 media_folder: "source/assets/images" # Folder where user uploaded files should go
 public_folder: "source"
