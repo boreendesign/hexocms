@@ -1,3 +1,5 @@
 backend:
-  name: netlify-api
-  url: localhost:8080
+  name: github
+  repo: boreendesign/hexocms
+  branch: master # Branch to update
+  site_domain: boreentest.netlify.com # Your Netlify site address if different from host
